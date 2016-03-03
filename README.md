@@ -71,3 +71,4 @@ Using this gem you'd do something like this:
 * add option for specs runs, rubocop, linters, at various stages
 * integrate things like code-ship and check builds
 * add ability to do pull requests
+* post a comment with a link to the commit in Pivotal
