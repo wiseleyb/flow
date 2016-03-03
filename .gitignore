@@ -1,0 +1,4 @@
+.bundle/
+.rbenv-vars
+log/*.log
+pkg/
